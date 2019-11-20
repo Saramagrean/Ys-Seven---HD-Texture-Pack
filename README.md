@@ -65,6 +65,6 @@ And more screenshot... https://web.facebook.com/story.php?story_fbid=58777720503
 =====================================
 
 • Download Texture Pack v1.31 https://github.com/Saramagrean/Ys-Seven---HD-Texture-Pack/archive/master.zip
-• Use PPSSPP latest git build version from http: //buildbot.orphis.net/ppsspp
+• Use PPSSPP latest git build version from http://buildbot.orphis.net/ppsspp
 
 =====================================
