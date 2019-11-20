@@ -3,6 +3,8 @@ High-resolution textures for Ys Seven (ULUS-10551) support Original version &amp
 √ Last updated - 17/08/2019
 √ Version - 1.30
 
+=====================================
+
 • Progress:
 
 - Title logos & Main menu page: 100%
@@ -14,6 +16,8 @@ High-resolution textures for Ys Seven (ULUS-10551) support Original version &amp
 - Various effects: 50%
 - Monsters: 35%
 - Fields & Objects on the map: 40%
+
+=====================================
 
 • Changelog:
 
@@ -60,7 +64,7 @@ And more screenshot... https://web.facebook.com/story.php?story_fbid=58777720503
 
 =====================================
 
-• [b]Download Texture Pack v1.31 https://github.com/Saramagrean/Ys-Seven---HD-Texture-Pack/archive/master.zip
-• [b]Use PPSSPP latest git build version from http: //buildbot.orphis.net/ppsspp
+• Download Texture Pack v1.31 https://github.com/Saramagrean/Ys-Seven---HD-Texture-Pack/archive/master.zip
+• Use PPSSPP latest git build version from http: //buildbot.orphis.net/ppsspp
 
 =====================================
