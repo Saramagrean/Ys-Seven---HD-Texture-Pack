@@ -54,10 +54,15 @@ Update v1.0 (13-04-2019)
 √ Comparison shots. :D
 
 https://ibb.co/w0g8mf7
+
 https://ibb.co/c6hXw0S
+
 https://ibb.co/VqHbwHf
+
 https://ibb.co/gRcVzvQ
+
 https://ibb.co/n3WjkKv
+
 https://ibb.co/DM7TrLj
 
 And more screenshot... https://web.facebook.com/story.php?story_fbid=587777205035749&id=375191579627647
@@ -65,6 +70,7 @@ And more screenshot... https://web.facebook.com/story.php?story_fbid=58777720503
 =====================================
 
 • Download Texture Pack v1.31 https://github.com/Saramagrean/Ys-Seven---HD-Texture-Pack/archive/master.zip
+
 • Use PPSSPP latest git build version from http://buildbot.orphis.net/ppsspp
 
 =====================================
