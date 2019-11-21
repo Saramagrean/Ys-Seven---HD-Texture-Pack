@@ -1,9 +1,11 @@
-# Ys-Seven---HD-Texture-Pack
+# Ys Seven - HD-Texture Pack
 High-resolution textures for Ys Seven (ULUS-10551) support Original version &amp; Undub mod version. :)
 
 √ Last updated - 20/11/2019
 
 √ Version - 1.31
+
+Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 
 =====================================
 
