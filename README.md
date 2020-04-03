@@ -1,9 +1,9 @@
 # Ys Seven - HD-Texture Pack
 High-resolution textures for Ys Seven (ULUS-10551) support Original version &amp; Undub mod version. :)
 
-√ Last updated - 22/02/2020
+√ Last updated - 03/04/2020
 
-√ Version - 1.36
+√ Version - 1.37
 
 Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 
@@ -19,11 +19,17 @@ Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 - Text in the dialogue box & sub-menu: 90%
 - Various effects: 50%
 - Monsters: 55%
-- Fields & Objects on the map: 40%
+- Fields & Objects on the map: 45%
 
 =====================================
 
 • Changelog:
+
+Update v1.37 (03/04/2020)
+- Reduce noise in some textures.
+- Add field textures in Kylos Gorge, Kylos Village, Wind Precincts (a few).
+- Add monster textures in Kylos Gorge etc.
+- Misc fixes.
 
 Update v1.36 (22/02/2020)
 - Add missing hashes. (Hot fix)
@@ -70,15 +76,23 @@ Update v1.0 (13-04-2019)
 
 √ Comparison shots. :D
 
-[url=https://ibb.co/w0g8mf7][img]https://i.ibb.co/qyjhQvC/Zombo-Droid-13042019041143.jpg[/img][/url]
-[url=https://ibb.co/c6hXw0S][img]https://i.ibb.co/5rhxkmg/Zombo-Droid-12042019095712.jpg[/img][/url]
-[url=https://ibb.co/VqHbwHf][img]https://i.ibb.co/KrNBKNT/Zombo-Droid-13042019022151.jpg[/img][/url]
-[url=https://ibb.co/gRcVzvQ][img]https://i.ibb.co/MCJ6M8K/Zombo-Droid-12042019095447.jpg[/img][/url]
-[url=https://ibb.co/n3WjkKv][img]https://i.ibb.co/z8kZftY/Zombo-Droid-13042019022010.jpg[/img][/url]
-[url=https://ibb.co/DM7TrLj][img]https://i.ibb.co/t2bFL31/Zombo-Droid-13042019022115.jpg[/img][/url]
-[url=https://ibb.co/FssGxRD][img]https://i.ibb.co/vss2w0j/Zombo-Droid-19022020120909.jpg[/img][/url]
-[url=https://ibb.co/RhVRx3G][img]https://i.ibb.co/jV1ncy9/Zombo-Droid-19022020120953.jpg[/img][/url]
-[url=https://ibb.co/tBQ8XKB][img]https://i.ibb.co/gymzV9y/Zombo-Droid-19022020120843.jpg[/img][/url]
+<a href="https://ibb.co/w0g8mf7"><img src="https://i.ibb.co/qyjhQvC/Zombo-Droid-13042019041143.jpg" border="0"></a>
+
+<a href="https://ibb.co/c6hXw0S"><img src="https://i.ibb.co/5rhxkmg/Zombo-Droid-12042019095712.jpg" border="0"></a>
+
+<a href="https://ibb.co/VqHbwHf"><img src="https://i.ibb.co/KrNBKNT/Zombo-Droid-13042019022151.jpg" border="0"></a>
+
+<a href="https://ibb.co/gRcVzvQ"><img src="https://i.ibb.co/MCJ6M8K/Zombo-Droid-12042019095447.jpg" border="0"></a>
+
+<a href="https://ibb.co/n3WjkKv"><img src="https://i.ibb.co/z8kZftY/Zombo-Droid-13042019022010.jpg" border="0"></a>
+
+<a href="https://ibb.co/DM7TrLj"><img src="https://i.ibb.co/t2bFL31/Zombo-Droid-13042019022115.jpg" border="0"></a>
+
+<a href="https://ibb.co/FssGxRD"><img src="https://i.ibb.co/vss2w0j/Zombo-Droid-19022020120909.jpg" border="0"></a>
+
+<a href="https://ibb.co/RhVRx3G"><img src="https://i.ibb.co/jV1ncy9/Zombo-Droid-19022020120953.jpg" border="0"></a>
+
+<a href="https://ibb.co/tBQ8XKB"><img src="https://i.ibb.co/gymzV9y/Zombo-Droid-19022020120843.jpg" border="0"></a>
 
 And more screenshot... https://web.facebook.com/story.php?story_fbid=587777205035749&id=375191579627647
 
