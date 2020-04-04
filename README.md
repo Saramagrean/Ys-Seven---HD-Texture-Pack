@@ -1,9 +1,9 @@
 # Ys Seven - HD-Texture Pack
 High-resolution textures for Ys Seven (ULUS-10551) support Original version &amp; Undub mod version. :)
 
-√ Last updated - 03/04/2020
+√ Last updated - 05/04/2020
 
-√ Version - 1.37
+√ Version - 1.37.1
 
 Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 
@@ -24,6 +24,11 @@ Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 =====================================
 
 • Changelog:
+
+Update v1.37.1 (05/04/2020)
+- Add more field textures in Kylos Village, Wind Precincts, Iska Village.
+- Add monster textures in Wind Precincts.
+- Misc fixes.
 
 Update v1.37 (03/04/2020)
 - Reduce noise in some textures.
