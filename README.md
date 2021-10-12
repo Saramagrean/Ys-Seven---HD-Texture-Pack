@@ -1,9 +1,9 @@
 # Ys Seven - HD-Texture Pack
 High-resolution textures for Ys Seven (ULUS-10551) support Original version &amp; Undub mod version. :)
 
-√ Last updated - 05/04/2020
+√ Last updated - 12/10/2021
 
-√ Version - 1.37.1
+√ Version - 1.38
 
 Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 
@@ -14,16 +14,22 @@ Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 - Title logos & Main menu page: 100%
 - Sub-menu in-game: 95%
 - Various icons: 95%
-- Character image in the dialogue box: 70%
-- Character models (Player/NPC): 60%
+- Character image in the dialogue box: 75%
+- Character models (Player/NPC): 65%
 - Text in the dialogue box & sub-menu: 90%
-- Various effects: 50%
-- Monsters: 55%
-- Fields & Objects on the map: 45%
+- Various effects: 53%
+- Monsters: 58%
+- Fields & Objects on the map: 50%
 
 =====================================
 
 • Changelog:
+
+Update v1.38 (12/10/2021)
+- Added more textures character cut-in and portraits.
+- Add more field textures in Ruin Island, Edona Village.
+- Add monster textures in Ruin Island, Edona Village.
+- Misc fixes.
 
 Update v1.37.1 (05/04/2020)
 - Add more field textures in Kylos Village, Wind Precincts, Iska Village.
@@ -103,7 +109,7 @@ And more screenshot... https://web.facebook.com/story.php?story_fbid=58777720503
 
 =====================================
 
-• Download Texture Pack v1.36 https://github.com/Saramagrean/Ys-Seven---HD-Texture-Pack/archive/master.zip
+• Download Texture Pack v1.38 https://github.com/Saramagrean/Ys-Seven---HD-Texture-Pack/archive/master.zip
 
 • Use PPSSPP latest git build version from http://buildbot.orphis.net/ppsspp
 
