@@ -27,8 +27,8 @@ Original thread: https://forums.ppsspp.org/showthread.php?tid=25147
 
 Update v1.38 (12/10/2021)
 - Added more textures character cut-in and portraits.
-- Add more field textures in Ruin Island, Edona Village.
-- Add monster textures in Ruin Island, Edona Village.
+- Add more field textures in Ruin Island, Edona Village, Wind Sanctum, Earth Sanctum, Well of Soul.
+- Add monster textures in Ruin Island, Edona Village, Earth Sanctum.
 - Misc fixes.
 
 Update v1.37.1 (05/04/2020)
